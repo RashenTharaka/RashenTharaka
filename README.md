@@ -8,13 +8,15 @@
 
 <hr/>
 
-<img align="right" width=125px height=125px alt="side_sticker" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" />
+<!-- <img align="right" width=125px height=125px alt="side_sticker" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" /> -->
 
-💻 Currently exploring the dynamic world of **Project and Professional Aspects** of IT.
+💻 Computer Science graduate with interests in **Software Engineering, Web Development, Artificial Intelligence, and Machine Learning**.
 
-🎓 Undergraduate at **SLIIT** with a passion for learning and innovation.
+🎓 Graduate of **SLIIT** with a passion for learning and innovation.
 
-💬 Reach out if you're into **Java** or **Web Dev** — always happy to share and grow!
+🚀 Built academic projects using **Java, PHP, MySQL, Android, Firebase, Python, OpenCV, YOLO, Raspberry Pi, and Web Technologies**.
+
+💬 Reach out if you're into **Java, Web Development, AI/ML, Computer Vision, or Software Engineering** — always happy to share and grow!
 
 📫 Drop me a line **rashentharaka.23@gmail.com**
 
@@ -24,9 +26,57 @@
 <h3 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="18"> Languages-Frameworks-Tools </h3><br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,java,py,php" /><br>
-  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,nodejs,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,bootstrap,react,nodejs,firebase,mysql,opencv,pytorch,raspberrypi" /><br>
 </div>
+<hr/>
+
+
+<h3 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="18">
+  Featured Projects
+</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>What it does</th>
+      <th>Tech</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/RashenTharaka/SafeStep-Smart-Headband"><b>SafeStep Smart Headband</b></a></td>
+      <td>ML-driven IoT assistive headband designed to support visually impaired users with real-time object detection, direction awareness, proximity estimation, and voice feedback.</td>
+      <td>Python, OpenCV, YOLO, NCNN, Raspberry Pi, PiCamera2</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/RashenTharaka/SuperLand-E-Commerce-Website-with-Admin-Dashboard"><b>SuperLand E-Commerce Website</b></a></td>
+      <td>PHP and MySQL based e-commerce website with product browsing, user registration, cart, checkout, customer profile, and an admin dashboard for managing products and categories.</td>
+      <td>PHP, MySQL, HTML, CSS, JavaScript</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/RashenTharaka/ShipShape-Maritime-Maintenance-System"><b>ShipShape Maritime Maintenance System</b></a></td>
+      <td>Java desktop application for maritime maintenance operations, including supplier management, spare parts inventory, employee records, customer orders, reports, and notifications.</td>
+      <td>Java, Java Swing, MySQL, JDBC, NetBeans</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/RashenTharaka/Hotel-Management-System"><b>Hotel Management System</b></a></td>
+      <td>Java Swing and MySQL based hotel management system with room management, customer handling, employee management, inventory, authentication, events, and reporting features.</td>
+      <td>Java, Java Swing, MySQL, JDBC, NetBeans</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/RashenTharaka/FoodOrderApp"><b>FoodOrderApp</b></a></td>
+      <td>Android food ordering application with food item browsing, cart management, order flow, Firebase integration, and mobile-friendly UI screens.</td>
+      <td>Java, Android Studio, Firebase, XML, Gradle</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/RashenTharaka/Jewel-Crush-Game"><b>Jewel Crush Game</b></a></td>
+      <td>Web-based match-3 puzzle game with level targets, score tracking, timer-based gameplay, lifeline API support, and Firebase score storage.</td>
+      <td>HTML, CSS, JavaScript, Firebase, REST API</td>
+    </tr>
+  </tbody>
+</table>
 
 <hr/>
 <h3 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="18"> Get in Touch </h3>
@@ -36,9 +86,8 @@
   <a href="https://tharakarusiru.github.io/" target="_blank"><img align="center" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge" /></a>
   
 </p>
-<hr/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rashentharaka&label=Profile%20views&color=0e75b6&style=flat" alt="rashentharaka" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=rashentharaka&label=Profile%20views&color=0e75b6&style=flat" alt="rashentharaka" /> </p> -->
 
 
 <br/>
