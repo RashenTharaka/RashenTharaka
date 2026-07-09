@@ -10,13 +10,13 @@
 
 <!-- <img align="right" width=125px height=125px alt="side_sticker" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" /> -->
 
-💻 Computer Science graduate with interests in **Software Engineering, Web Development, Artificial Intelligence, and Machine Learning**.
+💻 CS graduate with interests in **Software Engineering, Web Development, Artificial Intelligence, and Machine Learning**.
 
 🎓 Graduate of **SLIIT** with a passion for learning and innovation.
 
-🚀 Built academic projects using **Java, PHP, MySQL, Android, Firebase, Python, OpenCV, YOLO, Raspberry Pi, and Web Technologies**.
+🚀 Built academic projects using **Java, PHP, MySQL, Firebase, Python, OpenCV, YOLO, Raspberry Pi, and Web Technologies**.
 
-💬 Reach out if you're into **Java, Web Development, AI/ML, Computer Vision, or Software Engineering** — always happy to share and grow!
+💬 Reach out if you're into **Java, Web Development, AI/ML, Computer Vision** — always happy to share and grow!
 
 📫 Drop me a line **rashentharaka.23@gmail.com**
 
