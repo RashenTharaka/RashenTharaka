@@ -31,8 +31,9 @@
 <hr/>
 <h3 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="18"> Get in Touch </h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/rashentharaka" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Tharaka Rusiru" height="45" width="45/></a>
-  <a href="https://x.com/](https://x.com/rashen99?s=11" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="rashen99" height="42" width="42"/></a>
+  <a href="https://www.linkedin.com/in/rashentharaka" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/rashen99?s=11" target="blank"><img align="center" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="rashen99" /></a>
+  <a href="https://tharakarusiru.github.io/" target="_blank"><img align="center" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge" /></a>
   
 </p>
 <hr/>
