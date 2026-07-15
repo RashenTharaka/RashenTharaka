@@ -51,7 +51,7 @@
       <td>Python, OpenCV, YOLO, NCNN, Raspberry Pi, PiCamera2</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/RashenTharaka/SuperLand-E-Commerce-Website-with-Admin-Dashboard"><b>SuperLand E-Commerce Website</b></a></td>
+      <td><a href="https://github.com/RashenTharaka/E-Commerce-Website-with-Admin-Dashboard.git"><b>SuperLand E-Commerce Website</b></a></td>
       <td>PHP and MySQL based e-commerce website with product browsing, user registration, cart, checkout, customer profile, and an admin dashboard for managing products and categories.</td>
       <td>PHP, MySQL, HTML, CSS, JavaScript</td>
     </tr>
