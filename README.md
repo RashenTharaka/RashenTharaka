@@ -56,7 +56,7 @@
       <td>PHP, MySQL, HTML, CSS, JavaScript</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/RashenTharaka/ShipShape-Maritime-Maintenance-System"><b>ShipShape Maritime Maintenance System</b></a></td>
+      <td><a href="https://github.com/RashenTharaka/ShipShape-Maritime-Maintenance-System.git"><b>ShipShape Maritime Maintenance System</b></a></td>
       <td>Java desktop application for maritime maintenance operations, including supplier management, spare parts inventory, employee records, customer orders, reports, and notifications.</td>
       <td>Java, Java Swing, MySQL, JDBC, NetBeans</td>
     </tr>
