@@ -61,12 +61,12 @@
       <td>Java, Java Swing, MySQL, JDBC, NetBeans</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/RashenTharaka/Hotel-Management-System"><b>Hotel Management System</b></a></td>
+      <td><a href="https://github.com/RashenTharaka/Hotel-Management-System-Java-MySQL.git"><b>Hotel Management System</b></a></td>
       <td>Java Swing and MySQL based hotel management system with room management, customer handling, employee management, inventory, authentication, events, and reporting features.</td>
       <td>Java, Java Swing, MySQL, JDBC, NetBeans</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/RashenTharaka/FoodOrderApp"><b>FoodOrderApp</b></a></td>
+      <td><a href="https://github.com/RashenTharaka/FoodOrderApp-Android-Firebase.git"><b>FoodOrderApp</b></a></td>
       <td>Android food ordering application with food item browsing, cart management, order flow, Firebase integration, and mobile-friendly UI screens.</td>
       <td>Java, Android Studio, Firebase, XML, Gradle</td>
     </tr>
