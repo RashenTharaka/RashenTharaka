@@ -71,7 +71,7 @@
       <td>Java, Android Studio, Firebase, XML, Gradle</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/RashenTharaka/Jewel-Crush-Game"><b>Jewel Crush Game</b></a></td>
+      <td><a href="https://github.com/RashenTharaka/Jewel-Crush-Match-3-Puzzle-Game.git"><b>Jewel Crush Game</b></a></td>
       <td>Web-based match-3 puzzle game with level targets, score tracking, timer-based gameplay, lifeline API support, and Firebase score storage.</td>
       <td>HTML, CSS, JavaScript, Firebase, REST API</td>
     </tr>
