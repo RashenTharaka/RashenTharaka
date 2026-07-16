@@ -46,7 +46,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/RashenTharaka/SafeStep-Smart-Headband"><b>SafeStep Smart Headband</b></a></td>
+      <td><a href="https://github.com/RashenTharaka/SafeStep-IoT-Smart-Headband.git"><b>SafeStep Smart Headband</b></a></td>
       <td>ML-driven IoT assistive headband designed to support visually impaired users with real-time object detection, direction awareness, proximity estimation, and voice feedback.</td>
       <td>Python, OpenCV, YOLO, NCNN, Raspberry Pi, PiCamera2</td>
     </tr>
