@@ -56,9 +56,9 @@
       <td>PHP, MySQL, HTML, CSS, JavaScript</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/RashenTharaka/ShipShape-Maritime-Maintenance-System.git"><b>ShipShape Maritime Maintenance System</b></a></td>
-      <td>Java desktop application for maritime maintenance operations, including supplier management, spare parts inventory, employee records, customer orders, reports, and notifications.</td>
-      <td>Java, Java Swing, MySQL, JDBC, NetBeans</td>
+      <td><a href="https://github.com/RashenTharaka/Jewel-Crush-Match-3-Puzzle-Game.git"><b>Jewel Crush Game</b></a></td>
+      <td>Web-based match-3 puzzle game with level targets, score tracking, timer-based gameplay, lifeline API support, and Firebase score storage.</td>
+      <td>HTML, CSS, JavaScript, Firebase, REST API</td>
     </tr>
     <tr>
       <td><a href="https://github.com/RashenTharaka/Hotel-Management-System-Java-MySQL.git"><b>Hotel Management System</b></a></td>
@@ -66,14 +66,14 @@
       <td>Java, Java Swing, MySQL, JDBC, NetBeans</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/RashenTharaka/ShipShape-Maritime-Maintenance-System.git"><b>ShipShape Maritime Maintenance System</b></a></td>
+      <td>Java desktop application for maritime maintenance operations, including supplier management, spare parts inventory, employee records, customer orders, reports, and notifications.</td>
+      <td>Java, Java Swing, MySQL, JDBC, NetBeans</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/RashenTharaka/FoodOrderApp-Android-Firebase.git"><b>FoodOrderApp</b></a></td>
       <td>Android food ordering application with food item browsing, cart management, order flow, Firebase integration, and mobile-friendly UI screens.</td>
       <td>Java, Android Studio, Firebase, XML, Gradle</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/RashenTharaka/Jewel-Crush-Match-3-Puzzle-Game.git"><b>Jewel Crush Game</b></a></td>
-      <td>Web-based match-3 puzzle game with level targets, score tracking, timer-based gameplay, lifeline API support, and Firebase score storage.</td>
-      <td>HTML, CSS, JavaScript, Firebase, REST API</td>
     </tr>
   </tbody>
 </table>
